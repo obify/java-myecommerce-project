@@ -15,7 +15,7 @@ public class ProductMain {
 	public static void main(String[] args) {
 
 		// create reference of Interface and object of Implementing class
-		// Dynamic polymorphism
+		// Dynamic polymorphism in java
 		ProductService productService = new ProductServiceImpl();
 
 		while (true) {

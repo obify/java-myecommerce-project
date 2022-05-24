@@ -18,7 +18,6 @@ public class ProductMain {
 		// Dynamic polymorphism in java
 		// Working on my branch
 		ProductService productService = new ProductServiceImpl();
-
 		while (true) {
 			createMenu();
 			Scanner scanner = new Scanner(System.in);

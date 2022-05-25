@@ -12,6 +12,7 @@ import com.myecommerce.service.impl.ProductServiceImpl;
 
 public class ProductMain {
 	// hello
+	Integer num = 5;
 	// java -jar ecom.jar
 	public static void main(String[] args) {
 
